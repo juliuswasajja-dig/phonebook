@@ -1,0 +1,15 @@
+{
+  "name": "phonebook",
+  "version": "1.0.0",
+  "description": "phonebook_tdd_assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "julius",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.11.0",
+    "typescript": "^4.0.3"
+  }
+}
